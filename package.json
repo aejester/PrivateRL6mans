@@ -1,0 +1,25 @@
+{
+  "name": "privaterl6mans",
+  "version": "1.0.0",
+  "description": "A 6mans bot capable of providing multiple queues.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aejester/PrivateRL6mans.git"
+  },
+  "author": "Ryan Monaghan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aejester/PrivateRL6mans/issues"
+  },
+  "homepage": "https://github.com/aejester/PrivateRL6mans#readme",
+  "dependencies": {
+    "discord.js": "^13.6.0"
+  },
+  "devDependencies": {
+    "typescript": "^4.5.5"
+  }
+}
